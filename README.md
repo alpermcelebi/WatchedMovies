@@ -1,0 +1,1 @@
+This is one of the projects I implemented during the Data Structures course at Middle East Tech. Uni.; used Tries, BSTs to implement a unique structure. Detailed description can be found in the uploaded PDF file.
